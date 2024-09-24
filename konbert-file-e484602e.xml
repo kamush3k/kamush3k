@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <_DOCTYPE_html_>&lt;html lang="ru"&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;head&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;meta charset="UTF-8"&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;meta name="viewport" content="width=device-width</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;title&gt;Мой сайт на GitHub Pages&lt;/title&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;/head&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;body&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;h1&gt;Привет</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;p&gt;Это мой первый сайт на GitHub Pages.&lt;/p&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;/body&gt;</_DOCTYPE_html_>
+  </row>
+  <row>
+    <_DOCTYPE_html_>&lt;/html&gt;</_DOCTYPE_html_>
+  </row>
+</root>
