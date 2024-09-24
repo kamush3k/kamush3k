@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:^211 ...
 -->
+<link rel="stylesheet" href="style.css">
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: darkblue;
+}
