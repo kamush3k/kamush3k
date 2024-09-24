@@ -33,4 +33,12 @@
   <row>
     <_DOCTYPE_html_>&lt;/html&gt;</_DOCTYPE_html_>
   </row>
+  <link rel="stylesheet" href="style.css">
+    body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: darkblue;
+}
 </root>
